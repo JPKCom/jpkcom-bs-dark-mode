@@ -1,10 +1,15 @@
 <?php
 /*
 Plugin Name: JPKCom Bootstrap 5 Dark Mode Switch
+Plugin URI: https://www.jpkc.com/
 Description: Shortcode [jpkcom-bs-dark-mode] and JS for Bootstrap 5 Dark Mode Switch.
-Version: 1.0.1
+Version: 1.0.2
 Author: Jean Pierre Kolb <jpk@jpkc.com>
 Author URI: https://www.jpkc.com
+Requires at least: 6.7
+Requires PHP: 8.3
+License: MIT
+License URI: https://opensource.org/license/MIT
 GitHub Plugin URI: JPKCom/jpkcom-bs-dark-mode
 Primary Branch: main
 */
