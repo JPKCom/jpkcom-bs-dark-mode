@@ -3,7 +3,7 @@
 Plugin Name: JPKCom Bootstrap 5 Dark Mode Switch
 Plugin URI: https://github.com/JPKCom/jpkcom-bs-dark-mode
 Description: Shortcode [jpkcom-bs-dark-mode] and JS for Bootstrap 5 Dark Mode Switch.
-Version: 2.0.3
+Version: 2.0.4
 Author: Jean Pierre Kolb <jpk@jpkc.com>
 Author URI: https://www.jpkc.com
 Contributors: JPKCom
@@ -11,7 +11,7 @@ Tags: Bootstrap, Color, Theme, Shortcode, Gutenberg
 Requires at least: 6.9
 Tested up to: 7.0
 Requires PHP: 8.3
-Stable tag: 2.0.3
+Stable tag: 2.0.4
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -29,7 +29,7 @@ if ( ! defined( constant_name: 'WPINC' ) ) {
  * @since 2.0.3
  */
 if ( ! defined( 'JPKCOM_BS_DARK_MODE_VERSION' ) ) {
-    define( 'JPKCOM_BS_DARK_MODE_VERSION', '2.0.3' );
+    define( 'JPKCOM_BS_DARK_MODE_VERSION', '2.0.4' );
 }
 
 
