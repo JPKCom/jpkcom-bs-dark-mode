@@ -38,7 +38,7 @@ The callback takes no attributes and echoes its markup (heredoc).
 
 | Constant | Value | Purpose |
 |----------|-------|---------|
-| `JPKCOM_BS_DARK_MODE_VERSION` | `'2.0.4'` | Plugin version (sync with header/README/phpdoc.xml) |
+| `JPKCOM_BS_DARK_MODE_VERSION` | `'2.0.5'` | Plugin version (sync with header/README/phpdoc.xml) |
 
 ---
 
