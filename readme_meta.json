@@ -1,7 +1,7 @@
 {
   "Author": "Jean Pierre Kolb <jpk@jpkc.com>",
   "APIDocumentation": "Complete PHPDoc-generated API documentation is available at",
-  "Version": "2.0.5",
+  "Version": "2.0.6",
   "Description": "Shortcode [jpkcom-bs-dark-mode] and JS for Bootstrap 5 Dark Mode Switch.",
   "PluginURI": "https://github.com/JPKCom/jpkcom-bs-dark-mode",
   "PluginName": "JPKCom Bootstrap 5 Dark Mode Switch",
@@ -9,7 +9,7 @@
   "Requiresatleast": "6.9",
   "Testedupto": "7.0",
   "Forexample": "",
-  "Stabletag": "2.0.5",
+  "Stabletag": "2.0.6",
   "RequiresPHP": "8.3",
   "License": "GPL-2.0-or-later",
   "LicenseURI": "https://www.gnu.org/licenses/gpl-2.0.html",
